@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bibcode
+- 👋 Hi, I’m @ibcode
 - 👀 I’m interested in javascript $ react project
 - 💞️ I’m looking to collaborate on any web project
 - ✋ I'am currently learning react 
